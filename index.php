@@ -136,7 +136,7 @@ session_start(); //start temp session until logout/browser closed
 															<div class="content">
 																<h5><a href="dishes.php?res_id='.$r['rs_id'].'">'.$r['title'].'</a></h5>
 																<div class="product-name">'.$r['slogan'].'</div>
-																<div class="price-btn-block"> <span class="price">RS'.$r['price'].'</span> <a href="dishes.php?res_id='.$r['rs_id'].'" class="btn theme-btn-dash pull-right">Order Now</a> </div>
+																<div class="price-btn-block"> <span class="price">$'.$r['price'].'</span> <a href="dishes.php?res_id='.$r['rs_id'].'" class="btn theme-btn-dash pull-right">Order Now</a> </div>
 															</div>
 															
 														</div>
@@ -308,7 +308,7 @@ session_start(); //start temp session until logout/browser closed
                 <!-- top footer statrs -->
                 <div class="row top-footer">
                     <div class="col-xs-12 col-sm-3 footer-logo-block color-gray">
-                        <a href="#"> <img src="images/food-picky-logo.png" alt="Footer logo"> </a> <span>Choose it &amp; Enjoy your meals! </span> </div>
+                        <a href="#"> <img src="images/hangout restaurant.png" alt="Footer logo"> </a> <span>Choose it &amp; Enjoy your meals! </span> </div>
                     <div class="col-xs-12 col-sm-2 about color-gray">
                         <h5>About Us</h5>
                         <ul>
@@ -343,16 +343,16 @@ session_start(); //start temp session until logout/browser closed
                     <div class="col-xs-12 col-sm-3 popular-locations color-gray">
                         <h5>Locations We Deliver To</h5>
                         <ul>
-                            <li><a href="#">Chennai</a> </li>
-                            <li><a href="#">Kanchipuram</a> </li>
-                            <li><a href="#">Tiruchy</a> </li>
-                            <li><a href="#">Salem</a> </li>
-                            <li><a href="#">Madurai</a> </li>
-                            <li><a href="#">Theni</a> </li>
-                            <li><a href="#">Thiruvallur</a> </li>
-                            <li><a href="#">Pondicherry</a> </li>
-                            <li><a href="#">Thoothukudi</a> </li>
-                            <li><a href="#">Kanyakumari</a> </li>
+                            <li><a href="#">Dallas</a> </li>
+                            <li><a href="#">Irving</a> </li>
+                            <li><a href="#">Garland</a> </li>
+                            <li><a href="#">Grand Prairie</a> </li>
+                            <li><a href="#">Mesquite</a> </li>
+                            <li><a href="#">Carrollton</a> </li>
+                            <li><a href="#">Richardson</a> </li>
+                            <li><a href="#">Rowlett</a> </li>
+                            <li><a href="#">DeSoto</a> </li>
+                            <li><a href="#">Grapevine</a> </li>
                         </ul>
                     </div>
                 </div>
@@ -382,8 +382,8 @@ session_start(); //start temp session until logout/browser closed
                         </div>
                         <div class="col-xs-12 col-sm-4 address color-gray">
                             <h5>Address:</h5>
-                            <p>Kathmandu,Nepal</p>
-                            <h5>Call us at: <a href="tel:+914450005500">+977 9862673931</a></h5></div>
+                            <p>Dallas,Texas</p>
+                            <h5>Call us at: <a href="tel:+1 (814)-318-3935">+1 (814)-318-3935</a></h5></div>
                        
                     </div>
                 </div>
